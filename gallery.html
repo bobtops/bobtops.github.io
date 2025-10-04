@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+div.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+div.gallery-item {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: calc(25% - 20px);
+}
+
+div.gallery-item:hover {
+  border: 1px solid #777;
+}
+
+div.gallery-item img {
+  width: 100%;
+  height: auto;
+}
+
+div.gallery-item div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  div.gallery-item {
+    width: calc(50% - 20px);
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  div.gallery-item {
+    width: calc(100% - 20px);
+  }
+}
+</style>
+</head>
+<body>
+
+<h2>Responsive Image Gallery</h2>
+
+<h4>Resize the browser window to see the effect!</h4>
+
+<div class="gallery">
+
+<div class="gallery-item">
+  <a target="_blank" href="cad.jpeg">
+    <img src="cad.jpeg" alt="Caddy" width="600" height="400">
+  </a>
+  <div class="desc">Caddy</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="purple.JPG">
+    <img src="purple.jpg" alt="Purple" width="600" height="400">
+  </a>
+  <div class="desc">Purple</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="red.JPG">
+    <img src="red.jpg" alt="Red" width="600" height="400">
+  </a>
+  <div class="desc">Red</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="racer.jpeg">
+    <img src="racer.jpeg" alt="Racer" width="600" height="400">
+  </a>
+  <div class="desc">Racer</div>
+</div>
+
+</div>
+
+<p>Here we use media queries to re-arrange the images on different screen sizes:</p>
+<ul>
+  <li>If screen is larger than 768px wide - show four images side by side</li>
+  <li>If screen is smaller than 768px - show two images side by side</li>
+  <li>If screens is smaller than 480px - stack the images vertically (100%)</li>
+</ul>
+<p><strong>Tip:</strong> You will learn more about media queries later in our CSS Tutorial.</p>
+
+</body>
+</html>
+
+
