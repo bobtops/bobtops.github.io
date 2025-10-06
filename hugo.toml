@@ -2,3 +2,6 @@ baseURL = 'https://bobstops.com/'
 languageCode = 'en-us'
 title = 'BobsTops'
 theme = 'ananke'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
