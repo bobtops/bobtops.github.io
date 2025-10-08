@@ -37,3 +37,5 @@ recent_posts_number = 3
     name = "Gallery"
     url = "https://gallery.bobstops.com"
     weight = 30
+    [menu.main.params]
+      external = true
