@@ -24,3 +24,16 @@ description = "Bobs Tops and Upholstery"
 background_color_class = "bg-black"
 recent_posts_number = 3
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    name = "Gallery"
+    url = "https://gallery.bobstops.com"
+    weight = 30
