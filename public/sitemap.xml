@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://bobstops.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/auto/</loc>
+    <loc>https://bobstops.com/auto/</loc>
   </url><url>
-    <loc>http://localhost:1313/boats/</loc>
+    <loc>https://bobstops.com/boats/</loc>
   </url><url>
-    <loc>http://localhost:1313/commercial/</loc>
+    <loc>https://bobstops.com/commercial/</loc>
   </url><url>
-    <loc>http://localhost:1313/featured-album/</loc>
+    <loc>https://bobstops.com/featured-album/</loc>
   </url><url>
-    <loc>http://localhost:1313/fun/</loc>
+    <loc>https://bobstops.com/fun/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/</loc>
+    <loc>https://bobstops.com/home/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://bobstops.com/about/</loc>
   </url>
 </urlset>

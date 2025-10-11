@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BobsTops</title>
-    <link>http://localhost:1313/</link>
+    <link>https://bobstops.com/</link>
     <description>Recent content on BobsTops</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>info@bobstops.com (Cody)</managingEditor>
-    <webMaster>info@bobstops.com (Cody)</webMaster><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>info@bobstops.com (Cody)</webMaster><atom:link href="https://bobstops.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/auto/</link>
+      <link>https://bobstops.com/auto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/auto/</guid>
-        <media:content url="http://localhost:1313/auto/purple-1_hu_349748be5fdf3c78.jpeg" type="image/jpeg"/>
+      <guid>https://bobstops.com/auto/</guid>
+        <media:content url="https://bobstops.com/auto/purple-1_hu_349748be5fdf3c78.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/auto/purple-1_hu_349748be5fdf3c78.jpeg&quot; /&gt;
+          &lt;img src=&quot;https://bobstops.com/auto/purple-1_hu_349748be5fdf3c78.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/boats/</link>
+      <link>https://bobstops.com/boats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/boats/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://bobstops.com/boats/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/commercial/</link>
+      <link>https://bobstops.com/commercial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/commercial/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://bobstops.com/commercial/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/featured-album/</link>
+      <link>https://bobstops.com/featured-album/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/featured-album/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://bobstops.com/featured-album/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/fun/</link>
+      <link>https://bobstops.com/fun/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/fun/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://bobstops.com/fun/</guid><description>&lt;no value&gt;</description></item>
     <item>
       <title></title>
-      <link>http://localhost:1313/home/</link>
+      <link>https://bobstops.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@bobstops.com (Cody)</author>
-      <guid>http://localhost:1313/home/</guid><description>&lt;no value&gt;</description></item>
+      <guid>https://bobstops.com/home/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>
