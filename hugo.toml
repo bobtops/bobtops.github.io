@@ -1,7 +1,47 @@
 baseURL = 'https://bobstops.com/'
-languageCode = 'en-us'
-title = 'BobsTops'
-theme = 'ananke'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+languageCode = "en"
+title = "BobsTops"
+
+[params]
+  defaultTheme = "dark"
+  description = "Bobs Tops and Upholstery"
+  title = "BobsTops"
+  [params.author]
+    email = "info@bobstops.com"
+    name = "Cody"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+  [outputs]
+    home = ["HTML", "RSS"]
+    page = ["HTML"]
+    section = ["HTML"]
+
+  [imaging]
+    quality = 75
+    resampleFilter = "CatmullRom"
+    [imaging.exif]
+      disableDate = true
+      disableLatLong = true
+      includeFields = "ImageDescription|Orientation"
+
+  [module]
+    [module.hugoVersion]
+      min = "o.121.2"
+    [[module.imports]]
+      path = "github.com/nicokaiser/hugo-theme-gallery/v4"
+
+  [menu]
+    [[menu.footer]]
+      name = "GitHub"
+      url = "https://github.com/BobTops/bobtops.github.io"
+      weight = 3
+
+  [services]
+    [services.rss]
+      limit = 100

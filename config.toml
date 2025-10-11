@@ -1,8 +1,8 @@
 title = "BobsTops"
 baseURL = "https://bobstops.com/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-resourceDir = "../resources"
+theme = ["github.com/nicokaiser/hugo-theme-gallery"]
+
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
