@@ -1,6 +1,6 @@
 baseURL = "https://bobstops.com/"
 languageCode = "en-us"
-title = "Bobs Tops and Upholstery"
+title = "Bobs Tops & Upholstery"
 theme = "hugo-arcana"
 copyright = "© BobsTops. All rights reserved"
 
