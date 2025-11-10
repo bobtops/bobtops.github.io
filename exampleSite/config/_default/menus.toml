@@ -3,15 +3,15 @@
     weight = 30
 [[main]]
     parent = "Dropdown"
-    name = "Lorem dolor"
+    name = "About"
     weight = 31
 [[main]]
     parent = "Dropdown"
-    name = "Magna Phasellus"
+    name = "Services"
     weight = 32
 [[main]]
     parent = "Dropdown"
-    name = "Etiam sed tempus"
+    name = "Gallery"
     weight = 33
 [[main]]
     parent = "Dropdown"
@@ -19,20 +19,20 @@
     weight = 34
 [[main]]
     parent = "Submenu"
-    name = "Lorem dolor"
-    identifier = "sub-lorem"
+    name = "About"
+    identifier = "about"
     weight = 35
 [[main]]
     parent = "Submenu"
-    name = "Phasellus magna"
+    name = "Team"
     weight = 36
 [[main]]
     parent = "Submenu"
-    name = "Magna phasellus"
+    name = "Awards"
     weight = 37
 [[main]]
     parent = "Submenu"
-    name = "Etiam nisl"
+    name = "Projects"
     weight = 38
 [[main]]
     parent = "Submenu"
@@ -41,5 +41,9 @@
     weight = 39
 [[main]]
     parent = "Dropdown"
-    name = "Veroeros feugiat"
+    name = "Contact"
     weight = 40
+[[main]]
+    parent = "Dropdown"
+    name = "Socials"
+    weight = 41
